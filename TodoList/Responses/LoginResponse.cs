@@ -1,1 +1,0 @@
-public record LoginResponse(string responses);
